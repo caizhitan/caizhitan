@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caizhitan
 - 🇸🇬 I'm based in Singapore. 
 - 👀 I’m interested in Web developement, Data Science & Machine Learning.
+- 🔢 My public contributed datasets @ [Kaggle](https://www.kaggle.com/cztandata/)
 - 🌱 I’m currently learning SwiftUI & Korean!
-
