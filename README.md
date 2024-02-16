@@ -4,6 +4,6 @@ const AboutMe = {
     "location": "🇸🇬 Singapore",
     "interests": "👀 I’m interested in Web developement, Data Science & Machine Learning.",
     "datasets": "🔢 My public contributed datasets @ (https://www.kaggle.com/cztandata/)",
-    "learning": "🌱 SwiftUI & Korean",
+    "learning": "🌱 SwiftUI & Korean"
 };
 ```
